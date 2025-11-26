@@ -1,8 +1,0 @@
-Hello, my name is Janardana.
-I am studying the Machine Learning Engineer Course under Sapio Analytics and Klassroom Edutech.
-
-नमस्ते, मेरा नाम जनार्दन है।
-मैं Sapio Analytics और Klassroom Edutech के अंतर्गत Machine Learning Engineer Course की पढ़ाई कर रहा हूँ।
-
-नमस्कार, माझं नाव जनार्दन आहे.
-मी Sapio Analytics आणि Klassroom Edutech अंतर्गत Machine Learning Engineer Course शिकत आहे.
