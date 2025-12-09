@@ -1,0 +1,13 @@
+#  Dataset Specification Sheet
+
+| **Field**           | **Details** |
+|---------------------|-------------|
+| **Dataset Name**    | `sample_recharge_data.csv` *(demo dataset)* |
+| **Description**     | Contains small customer recharge + usage data for demonstrating Data Quality checks (Completeness, Consistency, Accuracy, Time-Keeping, Bias). |
+| **Features**        | `MonthlyUsage`, `CustomerType`, `Complaints`, `Recharged`, `RechargeDate` |
+| **Target Variable** | *None* (Exploratory dataset only) |
+| **Number of Rows**  | 5 |
+| **Null Handling**   | 1 missing value in `MonthlyUsage` (left intentionally for demo) |
+| **Transformations** | Converted `RechargeDate` to datetime; performed value counts, dtype checks, and boxplot analysis for data quality |
+| **Owner**           | Student / Notebook Author |
+| **Last Updated**    | 2025-12-03 |
